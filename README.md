@@ -1,1 +1,1 @@
-# Practicing git commnets
+# Practicing git commands
